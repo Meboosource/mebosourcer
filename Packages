@@ -1,0 +1,13 @@
+Package: com.yuosaf01.addsource
+Version: 2.3.1
+Architecture: iphoneos-arm
+Maintainer: yousef <cydiatweekonly@gmail.com>
+Filename: /addsource.deb
+Size: 43224 
+MD5sum: 621f12885ace10ca06382281e42619f3
+SHA1: a52f40a9b6a9519e8c40cb10588d73da2b831a54
+SHA256: aa243d78836a3d724ac7a103b74483a747fd0a12606363758b220d44d1dede48
+Section: Tweaks
+Description: hi
+Author: yousef <cydiatweekonly@gmail.com>
+Name: addsource
