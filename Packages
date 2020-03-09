@@ -1,0 +1,41 @@
+Package: com.yuosaf01.addsource
+Version: 2.3.1
+Architecture: iphoneos-arm
+Maintainer: yousef <cydiatweekonly@gmail.com>
+Filename: /addsource.deb
+Size: 43224 
+MD5sum: 621f12885ace10ca06382281e42619f3
+SHA1: a52f40a9b6a9519e8c40cb10588d73da2b831a54
+SHA256: aa243d78836a3d724ac7a103b74483a747fd0a12606363758b220d44d1dede48
+Section: Tweaks
+Description: hi
+Author: yousef <cydiatweekonly@gmail.com>
+Name: addsource
+
+Package: com.meboosource.bioprotectxs
+Version: 4.4-4+debug
+Architecture: iphoneos-arm
+Maintainer: yousef <cydiatweekonly@gmail.com>
+Filename: /bioprotectxs.deb
+Size: 1128564  
+MD5sum: 9b424cc895f72b4c0f8240cd76394640
+SHA1: 779184964daa1d241d375837f5c60db765f0c571
+SHA256: a6c5f1d731b3f94ae421e28784fa557ad0c352d1493d8b0b1182bcad771c3557
+Section: Tweakslock appclation
+Description: 
+Author: yousef <cydiatweekonly@gmail.com>
+Name: BioProtect XS
+
+Package: com.meboosource.fastLs
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: yousef <cydiatweekonly@gmail.com>
+Filename: /fastLs.deb
+Size: 59922 
+MD5sum: 81e6fbd68830b7cceffbbcd0c0716574
+SHA1: c4e3faef14d9a47b9c4ca8933855650e313f315b
+SHA256: 4ce417e7ea5d44e4d749d769edbbecbdfec4802952c8b640995e1654fce1153d
+Section: Tweakslock appclation
+Description: 
+Author: yousef <cydiatweekonly@gmail.com>
+Name: Fast-Ls
