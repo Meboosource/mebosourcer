@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Caller ID Protection hides the name of the caller when an incoming call comes in until you authenticate using Touch ID to reveal it, so that people around you cannot see who is calling you. It works for both native UI and CallBar.</key>
+	<string>Arayan Kimliği Koruması, gelen bir arama geldiğinde aramayı yapan kişinin adını gizler, böylece çevreleyen insanlar sizi aradığını göremez. Hem yerel kullanıcı arayüzü hem de CallBar için çalışıyor.</string>
+	<key>Enabled</key>
+	<string>Etkinleştir</string>
+	<key>After you authenticate, by lifting your finger BioProtect will hide the caller name again. Disable this to have the device remember that you authenticated for the current call.</key>
+	<string>Kimlik doğrulamasından sonra parmağınızı kaldırarak BioProtect arayan adını tekrar gizler. Cihazın geçerli arama için kimliğinizi doğruladığını hatırlamasını sağlamak için bunu devre dışı bırakın.</string>
+	<key>Hide Caller on Finger Up</key>
+	<string>Parmak İzi ile Arayanı Gizle</string>
+	<key>Current Lockscreen Notification Setting</key>
+	<string>Geçerli Kilit ekranı Bildirim Ayarı</string>
+	<key>It is highly recommended that you disable showing phone call notifications at lock screen if you enable Caller ID Protection. There is no point in protecting the Caller ID if a missed call notification appears and shows who called. BioProtect will not alter notifications, use the system's settings.</key>
+	<string>Arayan Kimliği Koruması özelliğini etkinleştirirseniz, telefon görüşmesi bildirimlerini kilit ekranında göstermemeniz şiddetle önerilir. Cevapsız bir arama bildirimi belirip kimin aradığını gösterirse, Arayan Kimliği'ni korumanın anlamı yoktur. BioProtect bildirimleri değiştirmez, sistemin ayarlarını kullanır.</string>
+	<key>Call Notifications At Lock Screen</key>
+	<string>Kilit Ekranında Çağrı Bildirimleri</string>
+	<key>Caller ID Protection</key>
+	<string>Arayan Kimliği Koruması</string>
+</dict>
+</plist>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Global Settings</key>
+	<string>Genel Ayarlar</string>
+	<key>Enabled</key>
+	<string>Etkinleştir</string>
+	<key>Vibrate on Error</key>
+	<string>Hata Uyarısında  Titreşim</string>
+	<key>Vibrate on Success</key>
+	<string>Titreşim Kontrol</string>
+	<key>Remember Unlock Session</key>
+	<string>Oturumu Hatırla</string>
+	<key>Trusted WiFi Networks</key>
+	<string>Güvenilir Wifi Ağları</string>
+	<key>Passcode options</key>
+	<string>Şifre Seçenekleri</string>
+	<key>Circle Color</key>
+	<string>Çember Rengi</string>
+	<key>Protected Items</key>
+	<string>Kilitli Öğeler</string>
+	<key>Applications</key>
+	<string>Uygulamalarınız</string>
+	<key>Lockscreen Notifications</key>
+	<string>Kilit Ekranı Bildirimleri</string>
+	<key>Folders</key>
+	<string>Klasörler</string>
+	<key>Settings Panes</key>
+	<string>Ayarlar Bölümü</string>
+	<key>FlipSwitches</key>
+	<string>Çevirme Anahtarları</string>
+	<key>ControlCenter Items</key>
+	<string>Denetim Merkezi</string>
+	<key>CCSettings Items</key>
+	<string>KM Ayarlar Öğeleri</string>
+	<key>Caller ID Protection</key>
+	<string>Arayan Kişi Bilgisi Koruma</string>
+	<key>Power-Off Protection</key>
+	<string>Cihazı Kapatma Koruması</string>
+	<key>SIM unlock Protection</key>
+	<string>SİM Kart Koruması</string>
+	<key>AppSwitcher Protection</key>
+	<string>Görev Yöneticisi Koruması</string>
+	<key>Siri Access Protection</key>
+	<string>Siri Koruması</string>
+	<key>Icon Arrangement Protection</key>
+	<string>İkon Taşıma Koruması</string>
+	<key>Experimental</key>
+	<string>Deneysel</string>
+	<key>If protection for Photos.app is enabled, this feature attempts to block access to photos from any NON-PROTECTED application until you authenticate. (If the application is BioProtected, there is no need to protect Photos access inside it). This is an experimental feature, feel free to test it. If you experience multiple authentication requests inside applications that use PhotoLibrary, disable this feature and protect the application instead.</key>
+	<string>Photos.app için koruma etkinse, bu özellik siz kimliği doğrulanana kadar KORUMALI olmayan bir uygulamadaki fotoğraflara erişimi engellemeye çalışır. (Uygulama BioProtected ise, içindeki Fotoğraf erişimini korumaya gerek yoktur). Bu deneysel bir özelliktir, test etmekten çekinmeyin. PhotoLibrary kullanan uygulamaların içinde birden fazla kimlik doğrulama isteği yaşıyorsanız, bu özelliği devre dışı bırakın ve uygulamayı koruyun.</string>
+	<key>PhotoLibrary Forced Protection</key>
+	<string>Fotoğraflar Koruması</string>
+	<key>Extras</key>
+	<string>Ekstralar</string>
+	<key>This feature allows you to unlock the device using the TouchID sensor even if you don't have a passcode set. (It does not require a valid fingerprint)</key>
+	<string>Bu özellik, bir şifre ayarlanmamış olsa bile, TouchID sensörünü kullanarak cihazın kilidini açmanıza izin verir. (Geçerli bir parmak izi gerektirmez)</string>
+	<key>Quit Protected App on Lock</key>
+	<string>Kilitlendiğinde Uygulamadan Çık</string>
+	<key>Unlock Using Touch ID</key>
+	<string>Touch ID Kullanma ile açma</string>
+	<key>Show a brief description or name of the protected item on the fingerprint alert</key>
+	<string>Parmak izi uyarısında korunan öğenin kısa bir açıklamasını veya adını gösterin</string>
+	<key>Show Protected Item Name</key>
+	<string>Korunan Uygulamanın Adını  Göster</string>
+	<key>AppSwitcher Protection Settings</key>
+	<string>Görev Yönetici Koruması</string>
+	<key>Blur AppSwitcher Items</key>
+	<string>Görev Yöneticisinde Bulanıklaştır</string>
+	<key>Show "BioProtected" Text</key>
+	<string>“BioProtect” Yazısını Göster</string>
+	<key>Folder Extras</key>
+	<string>Klasör Ayarları</string>
+	<key>This options defines if protected applications that are inside protected folders should still be protected after opening the folder</key>
+	<string>Bu seçenek, korumalı klasörlerin içindeki korumalı uygulamaların, klasörü açtıktan sonra hala korunup korunmayacağını belirtir.</string>
+	<key>Exit Protected Folder on App Launch</key>
+	<string>Uyg Başladığında Klasörü Kapat</string>
+	<key>Protect Apps In Folders</key>
+	<string>Klasör Korumalı Uygulamalar</string>
+	<key>Debugging</key>
+	<string>Hata Bildir</string>
+	<key>Here you can find generated crash logs that are caught by BioProtect. It does not mean that BioProtect caused the crash, but they can still help the developer debug any issues.</key>
+	<string>Burada BioProtect tarafından yakalanan oluşturulan kilitlenme günlüklerini bulabilirsiniz. Bu, BioProtect'in kazaya neden olduğu anlamına gelmez, ancak geliştiricinin herhangi bir sorunu gidermesine yardımcı olabilir.</string>
+	<key>Crash Logs</key>
+	<string>Hata Kayıtları</string>
+	<key>Revert to default settings.</key>
+	<string>Varsayılan ayarlara geri dönün.</string>
+	<key>Reset All Settings</key>
+	<string>Tümünü Sıfırla</string>
+	<key>Check for Updates</key>
+	<string>Güncellemeleri Kontrol Et</string>
+	<key>Install Updates Automatically</key>
+	<string>Otomatik Olarak Güncelle</string>
+	<key>Your Payment Information</key>
+	<string>Türkçe-Cracked by @onderazazi</string>
+</dict>
+</plist>

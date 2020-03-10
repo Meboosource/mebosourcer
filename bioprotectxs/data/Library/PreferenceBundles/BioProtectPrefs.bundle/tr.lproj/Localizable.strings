@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ADDED_FIRST_FINGERPRINT_AFTER_REBOOT</key>
+	<string>Parolanız etkinleştirildiğinde parmak izinizi eklediniz. Bilgileri yeniden yapılandırmak için cihaz% d saniye içinde Yeniden Başlatılacak</string>
+	<key>ADD_PASSCODE</key>
+	<string>Şifre Ekle</string>
+	<key>ALL_FINGERPRINTS_REMOVED</key>
+	<string>Tüm parmak izleri kaldırıldı. Uygulamalarınız korumalıysa, artık korunmazlar. Korumayı etkinleştirmek için en az bir parmak izi ekleyin.</string>
+	<key>AUTHENTICATION_FAILED</key>
+	<string>Kimlik Doğrulama Hatası</string>
+	<key>CANCEL</key>
+	<string>İptal</string>
+	<key>CHANGE_PASSCODE</key>
+	<string>Şifreyi Değiştir</string>
+	<key>CHOOSE_COLOR</key>
+	<string>Renk Seç</string>
+	<key>ENTER_OLD_PASSCODE</key>
+	<string>Eski Şifreyi Girin</string>
+	<key>ENTER_PASSCODE</key>
+	<string>Şifreyi Girin</string>
+	<key>HAPTIC_FEEDBACK</key>
+	<string>Onay Titreşimi</string>
+	<key>LANGUAGE</key>
+	<string>Türkçe</string>
+	<key>LANGUAGE_IN_ENGLISH</key>
+	<string>Turkish</string>
+	<key>NO</key>
+	<string>Нayır</string>
+	<key>NO_FINGERPRINT_SET</key>
+	<string>Parmak izin yok. Bu uygulamayı etkinleştirmek için en az bir parmak iziniz olmalıdır. Şimdi parmak izini eklemek ister misin?</string>
+	<key>OKAY</key>
+	<string>Tamam</string>
+	<key>PASSCODES_DID_NOT_MATCH_TRY_AGAIN</key>
+	<string>Şifreler Uyuşmuyor, Lütfen Yeniden Deneyin</string>
+	<key>PLEASE_AUTHENTICATE</key>
+	<string>Lütfen Doğrulayın</string>
+	<key>PROTECTED_APPLICATIONS</key>
+	<string>Kilitli Uygulamalar</string>
+	<key>PROTECT_SWITCHER</key>
+	<string>Görev Yöneticisini Kilitle</string>
+	<key>Protected Item Info</key>
+	<string>Kilitli Öğe Bilgisi</string>
+	<key>RECOVERY_OPTIONS</key>
+	<string>Kurtarma Seçenekleri</string>
+	<key>REENTER_PASSCODE</key>
+	<string>Şifreyi Yeniden Gir</string>
+	<key>REMOVE_PASSCODE</key>
+	<string>Şifreyi Kaldır</string>
+	<key>TOO_MANY_ATTEMPTS_SORRY</key>
+	<string>Çok Fazla Deneme Var. Özür Dilerim.</string>
+	<key>TRY_CLEANING</key>
+	<string>Parmak ucunuzu temizleyin / veya Ana Ekran düğmesini fırçalamayı deneyin.</string>
+	<key>WRONG_PASSCODE_TRY_AGAIN</key>
+	<string>Şifre Yanlış Tekrar Deneyin</string>
+	<key>YES_PLEASE</key>
+	<string>Evet</string>
+</dict>
+</plist>

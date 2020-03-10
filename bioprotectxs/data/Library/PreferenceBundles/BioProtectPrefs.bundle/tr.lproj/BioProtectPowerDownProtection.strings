@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Power-Off Protection</key>
+	<string>Kapama Koruması</string>
+	<key>Critical Battery Off Protection</key>
+	<string>Kritik Pil Kapalı Koruması</string>
+	<key>Respring Protection (most cases)</key>
+	<string>Respring Koruması (çoğu durumda)</string>
+</dict>
+</plist>

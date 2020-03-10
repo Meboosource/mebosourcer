@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Add a BioProtect passcode</key>
+	<string>BioProtect şifresi ekleyin</string>
+	<key>Change BioProtect passcode</key>
+	<string>BioProtect şifresini değiştir</string>
+	<key>Remove BioProtect passcode</key>
+	<string>BioProtect şifresini kaldır</string>
+	<key>Use only passcode (no Touch ID)</key>
+	<string>Sadece şifre kullan (Touch ID yok)</string>
+	<key>Passcode Protection</key>
+	<string>Parola Koruması</string>
+</dict>
+</plist>

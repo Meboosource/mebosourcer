@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Haptic feedback produces a small vibration on successful authentication.</key>
+	<string>Dokunsal geribildirim, başarılı kimlik doğrulaması konusunda küçük bir titreşim üretir.</string>
+	<key>Enabled</key>
+	<string>Etkinleştir</string>
+	<key>You may adjust the intensity of the haptic feedback.</key>
+	<string>Dokunsal geribildirimin yoğunluğunu ayarlayabilirsiniz.</string>
+	<key>Haptic Feedback</key>
+	<string>Dokunsal Geribildirim</string>
+</dict>
+</plist>
