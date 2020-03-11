@@ -1,0 +1,27 @@
+Package: com.yuosaf01.addsource
+Version: 2.3.1
+Architecture: iphoneos-arm
+Maintainer: yousef <cydiatweekonly@gmail.com>
+Filename: /addsource.deb
+Size: 43224 
+MD5sum: 621f12885ace10ca06382281e42619f3
+SHA1: a52f40a9b6a9519e8c40cb10588d73da2b831a54
+SHA256: aa243d78836a3d724ac7a103b74483a747fd0a12606363758b220d44d1dede48
+Section: Tweaks
+Description: hi
+Author: yousef <cydiatweekonly@gmail.com>
+Name: addsource
+
+Package: com.meboosource.bioprotectxs
+Version: 4.4-4
+Architecture: iphoneos-arm
+Maintainer: yousef <cydiatweekonly@gmail.com>
+Filename: /bioprotectxs.deb
+Size: 791230 
+MD5sum: 0a5afdbd1fd798dc817e66c9bd4b51d7
+SHA1: 895fc65e87b3911fb547e734edd2a8ba79c70bd8
+SHA256: 69ebc5388d01a4566c64da1177fdc3c4a06505704dac5acdcb3403ebf5b2bbca
+Section: Tweak
+Description: lock appclation in face id 
+Author: yousef <cydiatweekonly@gmail.com>
+Name: BioProtect XS
